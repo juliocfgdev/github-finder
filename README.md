@@ -1,5 +1,6 @@
 # github-finder
-## Localizador de perfis do GitHub usando a sua API.
+## Descrição 
+Localizador de perfis do GitHub usando a sua API.
 ### Tecnologias Usadas:
 * HTML5
 * CSS3 + Bootstrap
